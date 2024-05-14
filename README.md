@@ -9,7 +9,7 @@ Este proyecto es una aplicación Python que permite usar varias funciones en una
 
 pip install mysql-connector-python
 
-###Uso
+### Uso
 
 Para utilizar esta aplicación, sigue estos pasos:
 
@@ -19,7 +19,7 @@ Para utilizar esta aplicación, sigue estos pasos:
 
 python codigo.py
 
-###Contribuir
+### Contribuir
 Si deseas contribuir al proyecto, sigue estos pasos:
 
 - Haz un fork del repositorio haciendo clic en el botón "Fork" en la parte superior derecha de esta página.
